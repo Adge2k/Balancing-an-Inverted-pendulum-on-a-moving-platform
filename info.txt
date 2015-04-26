@@ -1,0 +1,2 @@
+Balancing an Inverted Pendulum on a Moving Platform
+Newby, Adrian, 100283721
